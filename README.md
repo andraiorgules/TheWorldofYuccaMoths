@@ -1,2 +1,2 @@
-# TheWorldofYuccaMoths
-C# Programming 102: Final project
+# The World of Yucca Moths
+C# Programming 102: Final Project
