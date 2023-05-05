@@ -1,0 +1,15 @@
+C:\Users\373569\Desktop\TheWorldOfYuccaMoths\TheWorldOfYuccaMoths\bin\Debug\TheWorldOfYuccaMoths.exe.config
+C:\Users\373569\Desktop\TheWorldOfYuccaMoths\TheWorldOfYuccaMoths\bin\Debug\TheWorldOfYuccaMoths.exe
+C:\Users\373569\Desktop\TheWorldOfYuccaMoths\TheWorldOfYuccaMoths\bin\Debug\TheWorldOfYuccaMoths.pdb
+C:\Users\373569\Desktop\TheWorldOfYuccaMoths\TheWorldOfYuccaMoths\obj\Debug\TheWorldOfYuccaMoths.csproj.AssemblyReference.cache
+C:\Users\373569\Desktop\TheWorldOfYuccaMoths\TheWorldOfYuccaMoths\obj\Debug\MainWindow.g.cs
+C:\Users\373569\Desktop\TheWorldOfYuccaMoths\TheWorldOfYuccaMoths\obj\Debug\App.g.cs
+C:\Users\373569\Desktop\TheWorldOfYuccaMoths\TheWorldOfYuccaMoths\obj\Debug\TheWorldOfYuccaMoths_MarkupCompile.cache
+C:\Users\373569\Desktop\TheWorldOfYuccaMoths\TheWorldOfYuccaMoths\obj\Debug\TheWorldOfYuccaMoths_MarkupCompile.lref
+C:\Users\373569\Desktop\TheWorldOfYuccaMoths\TheWorldOfYuccaMoths\obj\Debug\MainWindow.baml
+C:\Users\373569\Desktop\TheWorldOfYuccaMoths\TheWorldOfYuccaMoths\obj\Debug\TheWorldOfYuccaMoths.g.resources
+C:\Users\373569\Desktop\TheWorldOfYuccaMoths\TheWorldOfYuccaMoths\obj\Debug\TheWorldOfYuccaMoths.Properties.Resources.resources
+C:\Users\373569\Desktop\TheWorldOfYuccaMoths\TheWorldOfYuccaMoths\obj\Debug\TheWorldOfYuccaMoths.csproj.GenerateResource.cache
+C:\Users\373569\Desktop\TheWorldOfYuccaMoths\TheWorldOfYuccaMoths\obj\Debug\TheWorldOfYuccaMoths.csproj.CoreCompileInputs.cache
+C:\Users\373569\Desktop\TheWorldOfYuccaMoths\TheWorldOfYuccaMoths\obj\Debug\TheWorldOfYuccaMoths.exe
+C:\Users\373569\Desktop\TheWorldOfYuccaMoths\TheWorldOfYuccaMoths\obj\Debug\TheWorldOfYuccaMoths.pdb

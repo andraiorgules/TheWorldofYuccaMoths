@@ -1,0 +1,7 @@
+<playerInventory>
+<item name="Seeds" description ="Used to increase yucca plant population" amount = "10"/>
+<item name="Food" description ="Used to increase yucca moth population" amount = "5"/>
+<item name="Basket" description ="Used to hold seeds" amount = "1"/>
+<item name="Fire" description ="Used to increase temperature" amount = "1"/>
+<item name="Glacier" description ="Used to decrease temperature" amount = "1"/>
+</playerInventory>

@@ -1,0 +1,10 @@
+<environment type = "Desert" name = "Mojave Desert Yucca Moth Ecosystem">
+    <entity name="Yucca Moth" species = "Prodoxidae" imagepath = "yuccaMoth" amount = "1000">
+    </entity>
+    <entity name="Yucca Plant" species = "Yucca" imagepath = "yuccaPlant" amount = "1000">
+    </entity>
+     <entity name="Anonymous Player" species = "human">
+    </entity>
+     <entity name="Vendor" species = "human">
+    </entity>
+</environment>
